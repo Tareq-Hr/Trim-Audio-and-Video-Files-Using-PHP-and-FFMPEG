@@ -1,7 +1,7 @@
 # Trim-Audio-and-Video-Files-Using-PHP-and-FFMPEG
 
 ## Audio Trimmer:
-###You should have PHP >= 5.* and enjoy trimming your audios.
+You should have PHP >= 5.* and enjoy trimming your audios.
 
 
 ## Video Trimmer:
